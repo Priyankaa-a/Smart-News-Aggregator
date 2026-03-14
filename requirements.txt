@@ -1,0 +1,8 @@
+feedparser
+transformers
+torch
+scikit-learn
+streamlit
+requests
+python-dotenv
+html5lib
